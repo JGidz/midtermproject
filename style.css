@@ -1,0 +1,18 @@
+*{
+
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+
+
+.bg{
+
+    background: url('C:\Users\User\Desktop\group act\coffee-starbucks_wide-1214caac410e8fc93d77738ed373206dca19527f.jpg') ;
+    positiion: relative;
+    height: 620px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
